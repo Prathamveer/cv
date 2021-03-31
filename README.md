@@ -12,7 +12,4 @@ Instagram - [@chxhxl06](https://www.instagram.com/chxhxl_06/)
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamveer&theme=outrun&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamveer&langs_count=12)](https://github.com/Prathamveer/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamveer&layout=compact)](https://github.com/Prathamveer/github-readme-stats)
