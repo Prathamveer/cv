@@ -12,4 +12,4 @@ Instagram - [@chxhxl06](https://www.instagram.com/chxhxl_06/)
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamveer&theme=outrun&show_icons=true)
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Prathamveer" frameborder="0"> </iframe>
+https://ionicabizau.github.io/github-profile-languages/api.html?Prathamveer1
