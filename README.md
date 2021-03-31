@@ -15,6 +15,4 @@ Instagram - [@chxhxl06](https://www.instagram.com/chxhxl_06/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamveer&langs_count=12)](https://github.com/Prathamveer/github-readme-stats)
 
 
-SELECT language.name, COUNT(language.name)
-AS count FROM [bigquery-public-data:github_repos.languages]
-group by language.name order by count DESC
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamveer&layout=compact)](https://github.com/Prathamveer/github-readme-stats)
