@@ -12,3 +12,4 @@ Instagram - [@chxhxl06](https://www.instagram.com/chxhxl_06/)
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamveer)](https://github.com/Prathamveer/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamveer&count_private=true)
