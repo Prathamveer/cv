@@ -6,7 +6,7 @@
 - ✉️ Find me at : [📬](mailto:prathamchahal@gmail.com) ⬅️
 - 💡 Trying to become a successful Ethical Hacker 👾
 
-<a href=https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png> - [@ChahalPratham](https://twitter.com/ChahalPratham)
+Twitter - [@ChahalPratham](https://twitter.com/ChahalPratham)
 <br/>
 Instagram - [@chxhxl06](https://www.instagram.com/chxhxl_06/)
 
